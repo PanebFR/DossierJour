@@ -2,20 +2,16 @@
  * * * Compile_AHK SETTINGS BEGIN * * *
 
 [AHK2EXE]
-Exe_File=%In_Dir%\EXE - MTE - 0016 - Dossier du jour.exe
+Exe_File=%In_Dir%\Dossier du jour.exe
 [VERSION]
 Set_Version_Info=1
-Company_Name=Citeos
+Company_Name=PanebCorporation
 File_Description=Création dossier quotidien as you wish
 File_Version=0.0.0.1
 Inc_File_Version=1
 Legal_Copyright=Martin Tesconi
 [ICONS]
-Icon_1=D:\Users\Martin.TESCONI\Desktop\Ico_tray.ico
-Icon_2=D:\Users\Martin.TESCONI\Desktop\Ico_tray.ico
-Icon_3=D:\Users\Martin.TESCONI\Desktop\Ico_tray.ico
-Icon_4=D:\Users\Martin.TESCONI\Desktop\Ico_tray.ico
-Icon_5=D:\Users\Martin.TESCONI\Desktop\Ico_tray.ico
+
 
 * * * Compile_AHK SETTINGS END * * *
 */
