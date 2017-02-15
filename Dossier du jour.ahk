@@ -9,7 +9,7 @@ Company_Name=PanebCorporation
 File_Description=Création dossier quotidien as you wish
 File_Version=0.0.0.1
 Inc_File_Version=1
-Legal_Copyright=Martin Tesconi
+Legal_Copyright=PanebCorporation
 [ICONS]
 
 
